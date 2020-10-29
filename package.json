@@ -2,7 +2,7 @@
   "name": "cumbot",
   "version": "1.0.0",
   "description": "would you give me oral pleasure?",
-  "main": "index.js",
+  "main": "cumbot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
